@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build output & caches
+dist/
+build/
+*.tsbuildinfo
+.npm/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment & local config
+.env
+.env.*
+*.tmp
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
